@@ -1,4 +1,4 @@
-# Data-Mining-on-e-Commerce-Behavior-Data-from-Multi-category-Store
+# Data Mining on e-Commerce Behavior Data from Multi-category Store
 
 **About Dataset**
 
