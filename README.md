@@ -2,7 +2,7 @@
 
 **About Dataset**
 
-This dataset contain behavior data on October 2019 from a large multi-caltegory online store. There are 9 columns and 42,448,764 rows in this dataset. The dataset can be found on [Kaggle](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+This dataset contain behavior data on October 2019 from a large multi-caltegory online store. There are 9 columns and 42,448,764 rows in this dataset. The dataset can be found on [Kaggle](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store).
 
 **Project Description**
 
